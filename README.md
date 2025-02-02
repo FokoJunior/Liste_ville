@@ -16,7 +16,7 @@ Assurez-vous d'avoir installé **Node.js** et **npm**
 1. **Cloner le dépôt**
    ```sh
    git clone https://github.com/FokoJunior/Liste_ville.git
-   cd votre-repo
+   cd Liste_ville
    ```
 2. **Installer les dépendances**
    ```sh
