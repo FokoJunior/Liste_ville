@@ -24,7 +24,7 @@ Assurez-vous d'avoir installé **Node.js** et **npm**
    ```
 3. **Lancer l'application**
    ```sh
-   npm run dev  # ou yarn dev
+   npm run dev  
    ```
 
 ## Utilisation
