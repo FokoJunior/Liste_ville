@@ -1,6 +1,12 @@
 import Ville from "./components/Ville";
 
-const villes = ["douala", "maroua", "garoua", "yaounde"];
+const villes = [
+    "douala", "maroua", "garoua", "yaounde", 
+    "bafoussam", "bamenda", "bertoua", "ebolowa",
+    "nkongsamba", "kumba", "limbe", "dschang",
+    "foumban", "kribi", "edea"
+  ];
+  
 
 function App() {
   return (
